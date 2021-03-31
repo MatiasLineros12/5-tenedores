@@ -1,0 +1,10 @@
+ApiKey GoogleMaps
+
+AIzaSyCfwWIS_TqGx46neitGf64yxIXELF-QOgc
+
+expo fetch:android:hashes
+
+Google Certificate Fingerprint:     D3:AB:CF:26:40:92:12:CD:64:69:13:52:94:8A:DE:9C:74:28:29:C5
+Google Certificate Hash (SHA-1):    D3ABCF26409212CD64691352948ADE9C742829C5
+Google Certificate Hash (SHA-256):  CCF379FCA5A5B4DC299B4E0BFA1A02B3510B68B1C5EFA2E0BB079BEE5201AF3B
+Facebook Key Hash:                  06vPJkCSEs1kaRNSlIrenHQoKcU=

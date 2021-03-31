@@ -1,0 +1,2 @@
+Se han aplicado mejoras para un 'refresh' al hacer comentarios y que se muestren de inmediato. 
+de igual manera para el caso de los top 5, los cuales automaticamente se iran refrescando si esq alguno cambia
